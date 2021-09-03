@@ -1,5 +1,4 @@
-# Webpack Starter
-
+# Todo APP
 This is a todo app that storage todos in the local storage.
 
 # Install:
